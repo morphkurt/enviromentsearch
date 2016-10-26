@@ -1,4 +1,4 @@
-servername,mgt_ip,ilo_ip,type,services,web_port,ssh_port,enviroment,hosting,role,username,comment
+servername,mgt_ip,ilo_ip,type,services,web_port,ssh_port,environment,hosting,role,username,comment
 bogushost1,127.0.0.1,,linux,web/ssh,8080,22,production,clear,Delta,elemental,
 bogushost2,127.0.0.1,,linux,web/ssh,8080,22,production,clear,Delta,elemental,
 bogushost3,127.0.0.1,,linux,web/ssh,8080,22,production,clear,Delta,elemental,
